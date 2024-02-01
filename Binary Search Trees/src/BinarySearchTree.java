@@ -1,4 +1,8 @@
-// Defines a generic Binary Search Tree
+/*
+HK
+2/8/24
+CZ
+ */
 public class BinarySearchTree<Key extends Comparable<Key>, Value> {
     public Node<Key, Value> root;
     // Constructor for an empty BST
